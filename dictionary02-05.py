@@ -121,6 +121,7 @@ print(a)
 '''
 
 #Key로 Value 얻기2
+'''
 #.get() : 없는 key 호출시 none 값을 돌려줌 -> a['nokey']의 경우는 에러발생
 a = {'name': 'pey', 'phone': '01011112222', 'birth': '1118'}
 print(a.get('nokey'))
@@ -138,3 +139,4 @@ print(a.get('birth', 'bar'))
 #in : 있으면, true  없으면, false 반환
 print('name' in a)
 print('email' in a)
+'''
