@@ -1,5 +1,5 @@
 # 불 자료형
-
+#https://kr.mathworks.com/videos/arduino-support-in-simulink-117736.html?s_tid=srchtitle
 # 참 거짓
 '''
 a = True
