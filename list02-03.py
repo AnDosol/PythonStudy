@@ -72,7 +72,7 @@ print(str(a[2])+" hi")
 '''
 a = [1,2,3]
 print(a)
-#2번 인덱스의 value changed
+#2번 인덱스의 값 바꾸기
 a[2]=4
 print(a)
 '''
